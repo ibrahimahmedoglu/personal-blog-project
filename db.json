@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "First Blog Post",
-      "cover_image": "image1.jpg",
+      "cover_image": "image1.png",
       "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "date": "2023-07-01",
       "category": "Technology",
@@ -13,7 +13,7 @@
     {
       "id": 2,
       "title": "Second Blog Post",
-      "cover_image": "image2.jpg",
+      "cover_image": "image2.png",
       "body": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "date": "2023-07-03",
       "category": "Science",
@@ -23,7 +23,7 @@
     {
       "id": 3,
       "title": "Third Blog Post",
-      "cover_image": "image3.jpg",
+      "cover_image": "image3.png",
       "body": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "date": "2023-07-05",
       "category": "Health",
@@ -33,7 +33,7 @@
     {
       "id": 4,
       "title": "Fourth Blog Post",
-      "cover_image": "image4.jpg",
+      "cover_image": "image4.png",
       "body": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
       "date": "2023-07-07",
       "category": "Travel",
@@ -43,7 +43,7 @@
     {
       "id": 5,
       "title": "Fifth Blog Post",
-      "cover_image": "image5.jpg",
+      "cover_image": "image5.png",
       "body": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "date": "2023-07-09",
       "category": "Technology",
@@ -53,7 +53,7 @@
     {
       "id": 6,
       "title": "Sixth Blog Post",
-      "cover_image": "image6.jpg",
+      "cover_image": "image6.png",
       "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "date": "2023-07-11",
       "category": "Science",
@@ -63,7 +63,7 @@
     {
       "id": 7,
       "title": "Seventh Blog Post",
-      "cover_image": "image7.jpg",
+      "cover_image": "image7.png",
       "body": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "date": "2023-07-13",
       "category": "Health",
@@ -73,7 +73,7 @@
     {
       "id": 8,
       "title": "Eighth Blog Post",
-      "cover_image": "image8.jpg",
+      "cover_image": "image8.png",
       "body": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "date": "2023-07-15",
       "category": "Travel",
@@ -83,7 +83,7 @@
     {
       "id": 9,
       "title": "Ninth Blog Post",
-      "cover_image": "image9.jpg",
+      "cover_image": "image9.png",
       "body": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
       "date": "2023-07-17",
       "category": "Technology",
@@ -93,7 +93,7 @@
     {
       "id": 10,
       "title": "Tenth Blog Post",
-      "cover_image": "image10.jpg",
+      "cover_image": "image10.png",
       "body": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "date": "2023-07-19",
       "category": "Science",
@@ -105,7 +105,7 @@
     {
       "id": 1,
       "title": "First Podcast",
-      "cover_image": "podcast1.jpg",
+      "cover_image": "podcast1.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "date": "2023-07-02",
       "body": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -114,7 +114,7 @@
     {
       "id": 2,
       "title": "Second Podcast",
-      "cover_image": "podcast2.jpg",
+      "cover_image": "podcast2.png",
       "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "date": "2023-07-04",
       "body": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
@@ -123,7 +123,7 @@
     {
       "id": 3,
       "title": "Third Podcast",
-      "cover_image": "podcast3.jpg",
+      "cover_image": "podcast3.png",
       "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "date": "2023-07-06",
       "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
@@ -132,7 +132,7 @@
     {
       "id": 4,
       "title": "Fourth Podcast",
-      "cover_image": "podcast4.jpg",
+      "cover_image": "podcast4.png",
       "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "date": "2023-07-08",
       "body": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
@@ -141,7 +141,7 @@
     {
       "id": 5,
       "title": "Fifth Podcast",
-      "cover_image": "podcast5.jpg",
+      "cover_image": "podcast5.png",
       "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
       "date": "2023-07-10",
       "body": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -150,7 +150,7 @@
     {
       "id": 6,
       "title": "Sixth Podcast",
-      "cover_image": "podcast6.jpg",
+      "cover_image": "podcast6.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "date": "2023-07-12",
       "body": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -159,7 +159,7 @@
     {
       "id": 7,
       "title": "Seventh Podcast",
-      "cover_image": "podcast7.jpg",
+      "cover_image": "podcast7.png",
       "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "date": "2023-07-14",
       "body": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
@@ -168,7 +168,7 @@
     {
       "id": 8,
       "title": "Eighth Podcast",
-      "cover_image": "podcast8.jpg",
+      "cover_image": "podcast8.png",
       "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "date": "2023-07-16",
       "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
@@ -177,7 +177,7 @@
     {
       "id": 9,
       "title": "Ninth Podcast",
-      "cover_image": "podcast9.jpg",
+      "cover_image": "podcast9.png",
       "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "date": "2023-07-18",
       "body": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
@@ -186,7 +186,7 @@
     {
       "id": 10,
       "title": "Tenth Podcast",
-      "cover_image": "podcast10.jpg",
+      "cover_image": "podcast10.png",
       "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
       "date": "2023-07-20",
       "body": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",

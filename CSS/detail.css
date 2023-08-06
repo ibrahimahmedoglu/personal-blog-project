@@ -1,0 +1,17 @@
+body{
+    font-family: 'Nunito', sans-serif;
+}
+
+.title{
+    font-family: 'Libre Baskerville', serif;
+    font-size: 4rem;
+}
+.date-text{
+    font-size: 0.7rem;
+}
+.card-title{
+    font-family: 'Libre Baskerville', serif;
+}
+.more-Button{
+    font-family: 'Libre Baskerville', serif;
+}
